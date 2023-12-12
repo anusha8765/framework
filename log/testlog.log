@@ -1,0 +1,70 @@
+2023-11-22 11:04:24,158 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-11-22 11:04:26,726 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-11-22 11:04:29,147 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-11-22 11:04:31,466 - assignments_testcases.LoginTest_Assignment -INFO - testcase is failed
+2023-11-22 19:45:56,549 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-11-22 19:45:58,869 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-11-22 19:46:04,385 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-11-22 19:46:05,194 - assignments_testcases.LoginTest_Assignment -INFO - testcase is failed
+2023-11-22 19:50:36,105 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-11-22 19:50:38,347 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-11-22 19:50:40,785 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-11-22 19:50:45,929 - assignments_testcases.LoginTest_Assignment -INFO - testcase is failed
+2023-11-22 20:14:51,125 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-11-22 20:14:53,570 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-11-22 20:14:58,766 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-11-22 20:14:58,806 - assignments_testcases.LoginTest_Assignment -INFO - testcase is failed
+2023-11-22 20:20:34,884 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-11-22 20:20:38,272 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-11-22 20:20:40,585 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-11-22 20:20:42,358 - assignments_testcases.LoginTest_Assignment -INFO - testcase is failed
+2023-11-27 16:33:56,889 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-11-27 16:34:00,881 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-11-27 16:34:03,189 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-11-27 16:34:05,480 - assignments_testcases.LoginTest_Assignment -INFO - screenshot is taken
+2023-11-27 16:38:34,141 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-11-27 16:38:36,400 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-11-27 16:38:39,648 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-11-27 16:38:44,089 - assignments_testcases.LoginTest_Assignment -INFO - screenshot is taken
+2023-11-28 11:38:47,909 - assignments_testcases.DataDriven_Test -INFO - testcase is pass
+2023-11-28 11:47:48,038 - assignments_testcases.DataDriven_Test -INFO - screenshot is taken
+2023-11-28 11:52:48,676 - assignments_testcases.DataDriven_Test -INFO - testcase is pass
+2023-12-04 19:58:50,565 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-04 19:58:52,961 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-04 19:58:57,225 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-04 20:54:28,055 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-04 20:54:30,740 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-04 20:54:33,634 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-04 20:54:36,252 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
+2023-12-05 10:48:46,494 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-05 10:48:53,053 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-05 10:49:04,815 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-05 10:49:05,000 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
+2023-12-05 10:51:36,640 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-05 10:51:38,947 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-05 10:51:42,867 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-05 10:51:43,084 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
+2023-12-05 11:05:20,258 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-05 11:05:22,660 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-05 11:05:27,453 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-05 11:05:27,485 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
+2023-12-05 11:08:36,389 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-05 11:08:38,629 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-05 11:08:42,749 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-05 11:08:42,783 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
+2023-12-05 22:29:22,191 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-05 22:29:24,474 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-05 22:29:28,642 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-05 22:29:28,674 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
+2023-12-06 12:34:44,910 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-06 12:34:47,438 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-06 12:34:49,655 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-06 12:35:01,121 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
+2023-12-07 11:08:58,110 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-07 11:09:00,641 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-07 11:09:04,869 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-07 11:09:04,919 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
+2023-12-11 12:00:10,330 - assignments_testcases.LoginTest_Assignment -INFO - username is enetered
+2023-12-11 12:00:12,924 - assignments_testcases.LoginTest_Assignment -INFO - password is enetered
+2023-12-11 12:00:18,772 - assignments_testcases.LoginTest_Assignment -INFO - user is succefully logging into the account
+2023-12-11 12:00:18,822 - assignments_testcases.LoginTest_Assignment -INFO - testcase is pass
